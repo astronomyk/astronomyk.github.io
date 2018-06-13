@@ -9,7 +9,7 @@ name: Kieran Leschinski
 description: Daily dev-blog (to keep the bugger honest)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/astronomyk/astronomyk.github.io/blob/master/images/mugshot.jpg
+avatar: /images/mugshot.jpg
 
 #
 # Flags below are optional
