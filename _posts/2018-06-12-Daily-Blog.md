@@ -2,7 +2,7 @@
 layout: post
 title: Daily Blog
 category: dev
-date: 2018.06.13
+date: 2018.06.21
 ---
 
 This little blog is to help me track how things are going with the various
