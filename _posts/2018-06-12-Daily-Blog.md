@@ -9,6 +9,32 @@ This little blog is to help me track how things are going with the various
 projects that I have on the go. Each day I'll try to add one or two lines.
 
 
+2018.07.10
+---
+So this didn't take off. Ohwell.
+
+
+2018.06.26
+---
+* Presented SimCADO documentation, progress with SpecCADO, SCAO FV PSFs, 
+and roadmap for SimCADO until FDR, at the the MICADO CM#11
+
+
+2018.06.25
+---
+Spent the day attacking the radiometry of SimMETIS with Leo. We have the 
+background looking good. We removed a couple of redundant keywords, but at the
+end of the day we couldn't find any issues with the radiometry.
+
+
+2018.06.22
+---
+* Meeting with Werner about what has been done in the last 3 months and what the 
+roadmap for the next year should be.
+* Wrote the beginnings of two new PSF classes which only pull in PSFs when 
+needed. This avoids loading and resamping 150 MB constantly in memory.
+
+
 
 2018.06.20
 ---
