@@ -4,7 +4,7 @@ My name is Kieran and I'm a developer of astronomical software.
 
 ## CV
 * Here is my [astronomy CV](cv/astro_cv.md), which includes conference talks, publications, and outreach activities
-* Here is my [regular CV](cv/normal_cv.md), with more general information
+* Here is my [regular CV](cv/CV_July_2019.md), with more general information
 
 ## Software
 * [SimCADO](https://simcado.readthedocs.io/en/latest/)
