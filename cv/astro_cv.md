@@ -271,7 +271,7 @@ IAYC
 
   Physics class - "A morning with an Astrophysicst"
   
-* 2019 July -  
+* 2019 July - Vienna University Observatory  
 
-  Ö1 Vollmondnacht
+  Ö1 Vollmondnacht public talks
   
