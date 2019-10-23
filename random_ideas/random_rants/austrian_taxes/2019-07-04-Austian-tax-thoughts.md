@@ -3,7 +3,7 @@
 ### Background
 A friend of mine posted this joke in one of my WhatsApp groups:
 
-![Mein Sohn hat mich gefragt, was Steuern sing. Habe 46.91% seiner Milchschnitte abgebissen](tax_joke.jpg)
+![Mein Sohn hat mich gefragt, was Steuern sind. Habe 46.91% seiner Milchschnitte abgebissen](tax_joke.jpg)
 
 To which I though: that's funny, but it leaves out the fact that the parent is 
 providing the child with food, a roof over their head, child-care, amenities, 
