@@ -50,7 +50,7 @@ My name is Kieran and I'm a developer of astronomical software.
 ## Random Ideas
 
 * [Astronomy related ideas](random_ideas/astronomy_ideas/astronomy_ideas.md)
-* Climate change related
+* [Climate change related](random_ideasclimate_change/climate_index.md)
 * [Software related](random_ideas/software_posts/software_index.md)
 * [Random rants](random_ideas/random_rants/rants_index.md)
  
