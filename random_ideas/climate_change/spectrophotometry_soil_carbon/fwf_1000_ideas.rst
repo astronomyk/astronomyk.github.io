@@ -43,10 +43,30 @@ regenerative farmers). At its core, this market mechanism allows those who emit
 CO2 into the atmosphere to pay others to sequester an equivalent amount of
 CO2 into the ground. Farmers who are using regenerative agricultural
 practices can therefore be paid for continually sequestering CO2 into their
-soils. Farmers will essentially be paid for "farming carbon". Other farmers
-who still use conventional farming practices (i.e. CO2 positive) could
-therefore offset the drop in yields during the transition to regenerative
-methods with the profits made from their carbon farming efforts.
+soils. Farmers will essentially be paid for "farming carbon". Conventional
+farmers (i.e. CO2 positive) could therefore offset the drop in yields during
+the transition to regenerative methods with the profits made from their
+carbon farming efforts.
+
+Validation is the main hurdle faced by the marketplace such as Nori. How can
+Nori confirm that x tonnes fo CO2 has been sequestered in the soil by a
+farmer practicing regenerative agricultural techniques. Several techniques
+exist to measure the percentage of soil organic carbon (SOC).  Most
+standard methods require samples to be transported to a laboratory for
+testing, making large scale determinations of SOC inefficient and expensive.
+The lack of cheap, in-situ SOC measument methodss is the primary hurdle for
+the market places like Nori. Without reliable SOC measurments, it will be
+impossible for carbon offset buyers to trust the data provided by carbon
+farmers
+
+
+
+
+Recently several authors have shown that a near infrared
+spectroscopy can be used to accurately and reliably determine the level or soil
+organic carbon. Near infrared spectroscopy currently requires soil samples
+to be transported to a laboratory for analysis.
+
 
 
 
