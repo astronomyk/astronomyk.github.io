@@ -54,18 +54,30 @@ farmer practicing regenerative agricultural techniques. Several techniques
 exist to measure the percentage of soil organic carbon (SOC).  Most
 standard methods require samples to be transported to a laboratory for
 testing, making large scale determinations of SOC inefficient and expensive.
-The lack of cheap, in-situ SOC measument methodss is the primary hurdle for
-the market places like Nori. Without reliable SOC measurments, it will be
+The lack of cheap, in-situ SOC measurement methods is the primary hurdle for
+the market places like Nori. Without reliable SOC measurements, it will be
 impossible for carbon offset buyers to trust the data provided by carbon
 farmers
 
+Recently several authors have shown that a near infrared spectroscopy can be
+used to accurately and reliably determine the level of organic carbon in
+soil samples. Near infrared spectroscopy currently requires soil samples
+to be transported to a laboratory for analysis
+
+Spectroscopy, and it's simplified cousin spectrophotometry, have been
+standard tools used in astronomy and astrophysics for many decades. Indeed
+many spectroscopic analysis techniques were pioneered by
+observational astronomers.
+
+The recent advances in the miniturisation of near infrared electronic
+components have allowed pocket size NIR spectrophotometers to be created - see
+NIoR thing
 
 
 
-Recently several authors have shown that a near infrared
-spectroscopy can be used to accurately and reliably determine the level or soil
-organic carbon. Near infrared spectroscopy currently requires soil samples
-to be transported to a laboratory for analysis.
+
+
+
 
 
 

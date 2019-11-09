@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/fwf_1000_ideas.rst" beforeDir="false" afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/fwf_1000_ideas.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +25,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rst" value="6439" />
+          <entry key="rst" value="7059" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ReST" value="6439" />
+          <entry key="ReST" value="7059" />
         </counts>
       </usages-collector>
     </session>
