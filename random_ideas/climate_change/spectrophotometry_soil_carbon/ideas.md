@@ -26,7 +26,6 @@ BOKU (Tulln)
 * [SCiO](https://www.consumerphysics.com/business/technology/#) - miniature handheld 12-channel NIR spectrophotometer
 
 
-
 * [Stable isotope amount ratio analysis by using high-resolution continuum source 
 graphite furnace molecular absorption 
 spectrometry](https://www.bam.de/Content/EN/News-announcements/2017/2017-11-14-bam-isas-and-salsa-research-on-isotopes.html)
