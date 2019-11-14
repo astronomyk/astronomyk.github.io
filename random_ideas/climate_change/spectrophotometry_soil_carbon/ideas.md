@@ -1,4 +1,4 @@
-# Using spectrophotometric techniques to determine soil carbon abundances 
+# Using spectrophotometric techniques to determine in-situ soil carbon abundances 
 
 ## Keywords
 Climate change, blockchain, regenerative agriculture, internet of things, infrared spectroscopy, swarm data transfer
@@ -48,7 +48,7 @@ financial incentives to encourage the transition to (the urgently needed) regene
 spectrometry](https://www.bam.de/Content/EN/News-announcements/2017/2017-11-14-bam-isas-and-salsa-research-on-isotopes.html)
 
 
-##Funding possibilities
+## Funding possibilities
 [FWF 1000 ideas application](fwf_1000_ideas.rst)  - Deadline 15.01.2020 @ 14:00 CET
 
 
