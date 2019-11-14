@@ -23,10 +23,20 @@ electronics, infrared LEDs, and the internet of things (IoT), it should be possi
 to transfer soil composition data autonomously and in real time, thereby enabling transparent and continuous monitoring 
 and verification of the soil composition (i.e. carbon content) across farmland.
 
-A cheap and easily distributable sensor for continuous in-situ soil carbon measurements may be the final piece needed 
-for farmers to profit from the free-market based mechanisms (i.e. carbon removal certificates), thus providing the  
-financial incentives to encourage the transition to (the urgently needed) regenerative agricultural practices.  
+A cheap and easily deployable sensor for continuous in-situ soil carbon measurements may be the final piece needed for 
+farmers to profit from the free-market based mechanisms (i.e. carbon removal certificates), thus providing the
+financial incentives to encourage the widespread adoption of (urgently needed) regenerative agricultural practices.  
 
+## Methods
+
+1. Build a prototype sensor using the ESP8266 board and the 55 LEDs covering the 350-1700nm range from Ushio-Optics
+2. Build a library of soil composition and spectral profiles using laboratory NIR and mass spectrographs for a range of
+   soil conditions (if not already available).
+3. Compare soil reflectance data from the sensor to the spectral library
+4. Deploy sensors on several test fields/farms to collect real data for a year
+5. Periodically make mass-spectroscopy measurements of soil samples for comparison with the photometric sensor data
+6. Develop a model for translating sensor data to soil composition for a list of the most interesting / useful compounds 
+7. If this works, apply for more funding and scale up the project.
 
 ## Links
 
