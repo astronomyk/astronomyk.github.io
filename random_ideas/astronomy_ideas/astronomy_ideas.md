@@ -20,7 +20,7 @@ Here is a list of astronomy-related projects that I would like to do.
   * [Github repository](https://github.com/astronomyk/illustris_elt)
   
 
-* Astrometry to disentagle galactic centre open cluster
+* [Astrometry to disentangle galactic centre open cluster](GC_astrometry.md)
   * Level: Master thesis, 6-12 months work
 
 * The IMF in the era of the ELTs
