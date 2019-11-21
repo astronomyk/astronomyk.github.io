@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" beforeDir="false" afterPath="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +55,13 @@
         <counts>
           <entry key="Python Console" value="13" />
           <entry key="gitignore" value="10" />
-          <entry key="md" value="3483" />
+          <entry key="md" value="3742" />
           <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="3483" />
+          <entry key="Markdown" value="3742" />
           <entry key="PLAIN_TEXT" value="128" />
           <entry key="Python" value="13" />
         </counts>
@@ -99,8 +98,8 @@
         <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <first_editor relative-caret-position="75">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -210,6 +209,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119779356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,8 +334,8 @@
     <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <first_editor relative-caret-position="75">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>

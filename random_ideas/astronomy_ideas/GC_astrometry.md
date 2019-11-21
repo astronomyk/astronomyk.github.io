@@ -1,6 +1,7 @@
 # The IMF of YMCs in the GC using the ELT and astrometry
 
-![](https://scx2.b-cdn.net/gfx/news/hires/2013/theoriginoft.jpg)
+![](https://scx2.b-cdn.net/gfx/news/hires/2013/theoriginoft.jpg) 
+![](https://apod.nasa.gov/apod/image/1601/30dor_hubble_3939.jpg)
 
 ## Goals: 
 1. To determine the lowest mass stars that will be observable in young clusters
@@ -57,12 +58,22 @@ The first next generation 40m class telescope.
 It will have the resolution and sensitivity needed to study the motions of 
 individual stars in the galactic centre.
 
+Literature:
+[ELT wikipedia](https://de.wikipedia.org/wiki/Extremely_Large_Telescope)
+[ESO website](https://www.eso.org/public/austria/teles-instr/elt/)
+[MICADO paper, Davies+ 2018](https://arxiv.org/pdf/1807.10003.pdf)
+[MICADO simulation tool in python](https://simcado.readthedocs.io/en/latest/)
+
 ### Astrometry: Detectable movements of stars over time
 
 The motion of stars over time. This allows us to calculate trajectories and 
 hence differentiate the members of bound groups from the background and 
 foreground stars.
 The line-of-sight volume towrads the galactic centre is very densely populated.
+
+Literature:
+[Pott+ 2018](https://arxiv.org/ftp/arxiv/papers/1807/1807.07402.pdf)
+[Masari+ 2016](https://arxiv.org/pdf/1607.04412.pdf)
   
 ## Tasks
  1.  
