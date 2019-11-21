@@ -81,4 +81,31 @@ Literature:
   
 ## Tasks
 
+1. Make a galactic centre cluster
+   - Using Galpy create a model of a massive cluster in a galactic centre potential. 
+   - Evolve this cluster over time to see what happens
+   - Adjust the mass and velocity dispersion of the cluster to fit the observations
+   - "Observe" this cluster with the ELT using SimCADO
+   - **Find the lowest recoverable mass for a given set of observing conditions**
+
+2. Track cluster members
+   - Generate time snapshots for the positions of the stars as it evolves (dt~3 months)
+   - Observe each snapshot
+   - Extract the stars and determine relative position of the stars
+   - Determine the percentage of stars that have detectable motions in each snapshot
+   - **Find the time (snapshot) where >90% of the stars have detectable motions with respect to t=0**
+   
+3. Make a field of fore-/background stars with random motions (direction and velocity)
+   - Generate a population of stars using a present-day mass function for the galactic centre 
+   - Combine the field stars with the cluster 
+   - Evolve with time
+   - Observe each snapshot
+   - Extract the star properties (luminosity, position, velocity)
+   - Determine cluster members. Compare this list to the input list
+   - **Determine percentage of false positives, false negatives based on velocity**
+   
+4. Get IMF for cluster members
+   - Isolate only the cluster members
+   - **Find mass bins where 90% of input stars have cluster membership**
+   - **Find mass bins where 90% of input stars are detected**
 
