@@ -62,9 +62,9 @@ It will have the resolution and sensitivity needed to study the motions of
 individual stars in the galactic centre.
 
 Literature:
-[ELT wikipedia](https://de.wikipedia.org/wiki/Extremely_Large_Telescope)
-[ESO website](https://www.eso.org/public/austria/teles-instr/elt/)
-[MICADO paper, Davies+ 2018](https://arxiv.org/pdf/1807.10003.pdf)
+[ELT wikipedia](https://de.wikipedia.org/wiki/Extremely_Large_Telescope),
+[ESO website](https://www.eso.org/public/austria/teles-instr/elt/),
+[Davies+ 2018 (MICADO paper )](https://arxiv.org/pdf/1807.10003.pdf),
 [MICADO simulation tool in python](https://simcado.readthedocs.io/en/latest/)
 
 ### Astrometry: Detectable movements of stars over time
@@ -75,7 +75,7 @@ foreground stars.
 The line-of-sight volume towards the galactic centre is very densely populated.
 
 Literature:
-[Pott+ 2018](https://arxiv.org/ftp/arxiv/papers/1807/1807.07402.pdf)
+[Pott+ 2018](https://arxiv.org/ftp/arxiv/papers/1807/1807.07402.pdf),
 [Masari+ 2016](https://arxiv.org/pdf/1607.04412.pdf)
   
   
