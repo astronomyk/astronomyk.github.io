@@ -3,10 +3,14 @@
 The initial mass function of young massive clusters in the galactic centre
 using the extremely large telescope and astronometry
 
+1. [Goals](#Goals)
+1. [Background](#Background)
+1. [Tasks](#Tasks)
+
 ![](https://scx2.b-cdn.net/gfx/news/hires/2013/theoriginoft.jpg) 
 [](https://apod.nasa.gov/apod/image/1601/30dor_hubble_3939.jpg)
 
-## Goals: 
+## Goals
 1. To determine the lowest mass stars that will be observable in young clusters
    in the galactic center for a given star density.
 2. To determine what percentage of cluster memberships based on proper motions 
