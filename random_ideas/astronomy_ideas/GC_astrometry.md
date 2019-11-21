@@ -1,7 +1,10 @@
 # The IMF of YMCs in the GC using the ELT and astrometry
 
+The initial mass function of young massive clusters in the galactic centre
+using the extremely large telescope and astronometry
+
 ![](https://scx2.b-cdn.net/gfx/news/hires/2013/theoriginoft.jpg) 
-![](https://apod.nasa.gov/apod/image/1601/30dor_hubble_3939.jpg)
+[](https://apod.nasa.gov/apod/image/1601/30dor_hubble_3939.jpg)
 
 ## Goals: 
 1. To determine the lowest mass stars that will be observable in young clusters
@@ -69,12 +72,13 @@ Literature:
 The motion of stars over time. This allows us to calculate trajectories and 
 hence differentiate the members of bound groups from the background and 
 foreground stars.
-The line-of-sight volume towrads the galactic centre is very densely populated.
+The line-of-sight volume towards the galactic centre is very densely populated.
 
 Literature:
 [Pott+ 2018](https://arxiv.org/ftp/arxiv/papers/1807/1807.07402.pdf)
 [Masari+ 2016](https://arxiv.org/pdf/1607.04412.pdf)
   
+  
 ## Tasks
- 1.  
+
 
