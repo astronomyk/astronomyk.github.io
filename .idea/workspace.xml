@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="" />
+    <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/ideas.md" beforeDir="false" afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/ideas.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +57,6 @@
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-        </counts>
-      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -105,7 +104,7 @@
     <option name="x" value="-1928" />
     <option name="y" value="288" />
     <option name="width" value="1936" />
-    <option name="height" value="1036" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,7 +142,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ad304c9-c711-4678-899f-87403545ea8b" name="Default Changelist" comment="" />
+      <changelist id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="" />
       <created>1562238227761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -153,8 +152,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="288" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1601686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1601686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -165,7 +165,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24728851" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24728851" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
