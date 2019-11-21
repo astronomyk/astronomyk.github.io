@@ -44,19 +44,19 @@ financial incentives to encourage the widespread adoption of (urgently needed) r
 * [Nori](https://nori.com/) - Blockchain based carbon removal market (USA)
 * [Puro](https://puro.earth/) - Carbon removal market (EU, Finland)
 * [SCiO](https://www.consumerphysics.com/business/technology/#) - miniature handheld 12-channel NIR spectrophotometer
-* [Ushio OptoSemi](https://www.ushio-optosemi.com/en/products/led/std/standard/mold_type.html) - list of currently 
-  available visual and NIR LEDs
+* [Ushio OptoSemi](https://www.ushio-optosemi.com/en/products/led/std/standard/mold_type.html) - 
+  list of currently available visual and NIR LEDs
+* [EOC N/MIR LEDs](https://www.eoc-inc.com/mid-ir-led-photoreceivers/photodiode-detector-mid-ir/) - 
+  list of NIR and MIR LEDs, broadband LEDs, NIR / MIR detector diodes
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266) - Wifi/Bluetooth enabled micro Arduino board
 
 ### Literature
 * [Review: Carbon Sequestration Potential on Agricultural Lands - Kane+15](https://sustainableagriculture.net/wp-content/uploads/2015/12/Soil_C_review_Kane_Dec_4-final-v4.pdf)  
-  This project would address points 4, 5, and 6 in the research agenda section of this review.
-
-   
+  This project would address points 4, 5, and 6 in the research agenda section of this review. 
 * [Review: Soil carbon estimation techniques - Nayak+19](https://www.sciencedirect.com/science/article/pii/S0048969719306138)
 * [Stable isotope amount ratio analysis by using high-resolution continuum source graphite furnace molecular absorption 
 spectrometry](https://www.bam.de/Content/EN/News-announcements/2017/2017-11-14-bam-isas-and-salsa-research-on-isotopes.html)
-
+* [Effect of soil water content on VisNIR spectroscopy](https://www.researchgate.net/publication/324943667_Visible_near-infrared_spectroscopy_prediction_of_soil_characteristics_as_affected_by_soil-water_from_air-dry_to_saturation)
 
 ## Funding possibilities
 [FWF 1000 ideas application](fwf_1000_ideas.rst)  - Deadline 15.01.2020 @ 14:00 CET
