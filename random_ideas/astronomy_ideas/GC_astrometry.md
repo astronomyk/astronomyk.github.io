@@ -10,12 +10,12 @@ using the extremely large telescope and astronometry
 1. To determine the lowest mass stars that will be observable in young clusters
    in the galactic center for a given star density.
 2. To determine what percentage of cluster memberships based on proper motions 
-   are true or false positives and what percentage are false negatives.  
-   (i.e. how many should belong to the cluster but don't, and how many don't
-   belong to the cluster, but are included)
-3. To combine these two results to determine the lowest reliable-observable mass
-   for a star is that definitely has cluster membership. Hence where will the
-   reliability limit be for IMF studies in the galactic centre
+   are true or false positives and what percentage are false negatives. (i.e. 
+   how many should belong to the cluster but don't, and how many don't belong to 
+   the cluster, but are included)
+3. To combine these two results to determine the lowest reliably-observable mass
+   for a star, which definitely has cluster membership. Hence where the
+   reliability limit will be for future IMF studies in the galactic centre.
  
 ## Background
 
