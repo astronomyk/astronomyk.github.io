@@ -1,6 +1,6 @@
 # The IMF of YMCs in the GC using the ELT and astrometry
 
-![](https://images.app.goo.gl/TUs6iyE1VGBjiiQp9)
+![](https://scx2.b-cdn.net/gfx/news/hires/2013/theoriginoft.jpg)
 
 ## Goals: 
 1. To determine the lowest mass stars that will be observable in young clusters
@@ -31,6 +31,7 @@
   These facts combine to give us a good picture of the end product of a star formation event
   
   Examples: Westerlund 1, R136, Arches cluster, Quintuplet cluster, Trumpler 14
+  
   Literature: 
   [Portegeis-Zwart+ 2010](https://arxiv.org/abs/1002.1961)
 
