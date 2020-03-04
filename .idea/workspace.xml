@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" beforeDir="false" afterPath="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/seaweed_farming/basic_costs.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Budiman+17_soc_4_per_mille_meta_analysis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Cheng+01-Near-Infrared Reflectance Spectroscopy_Principal Components Regre.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Milos+17_NIR_spectroscopy_SOC_predictions_list_of_useful_wavelengths.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Paustian+19_quantifying_soc_global_management_system.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Saberioon+13_VIS_NIR_MIR_SOM_measurements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Smith+19-measuring_verifying_soc_changes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/USDA_quantifying_GHG_on_cropland.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/Vohland+17-quantification_with_hyperspectral_data.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,31 +48,44 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="5" />
-          <entry key="rst" value="1" />
+          <entry key="md" value="6" />
+          <entry key="py" value="1" />
+          <entry key="rst" value="2" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="5" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="ReST" value="1" />
+          <entry key="Python" value="1" />
+          <entry key="ReST" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="13" />
+          <entry key="Python Console" value="126" />
           <entry key="gitignore" value="10" />
-          <entry key="md" value="6049" />
+          <entry key="md" value="6107" />
+          <entry key="py" value="1548" />
+          <entry key="rst" value="2473" />
           <entry key="txt" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="6049" />
+          <entry key="Markdown" value="6107" />
           <entry key="PLAIN_TEXT" value="128" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="1674" />
+          <entry key="ReST" value="2473" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -73,8 +96,8 @@
         <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/ideas.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+              <first_editor relative-caret-position="1575">
+                <caret line="63" selection-start-line="63" selection-end-line="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,11 +105,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md">
+        <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="625">
-                <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="850">
+                <caret line="34" column="31" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -94,36 +117,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/LEDs_ushio_optosemi.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
-              <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/LEDs_eoc.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/seaweed_farming/basic_costs.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,14 +147,16 @@
         <option value="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/ideas.md" />
         <option value="$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md" />
         <option value="$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md" />
+        <option value="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/code/soil_sed.py" />
+        <option value="$PROJECT_DIR$/random_ideas/climate_change/seaweed_farming/basic_costs.rst" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="808" />
-    <option name="y" value="478" />
-    <option name="width" value="2324" />
-    <option name="height" value="1256" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3864" />
+    <option name="height" value="2124" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,7 +179,7 @@
               <item name="astronomyk.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="astronomyk.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="random_ideas" type="462c0819:PsiDirectoryNode" />
-              <item name="astronomy_ideas" type="462c0819:PsiDirectoryNode" />
+              <item name="climate_change" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,6 +187,11 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\astronomyk.github.io\random_ideas\climate_change\spectrophotometry_soil_carbon\literature" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,6 +204,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="soil_sed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="astronomyk.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/code/soil_sed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.soil_sed" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -208,13 +248,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119779356" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11583924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56778526" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,35 +336,36 @@
     <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/fwf_1000_ideas.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="625">
+            <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/LEDs_ushio_optosemi.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/LEDs_eoc.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/code/soil_sed.py" />
     <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/spectrophotometry_soil_carbon/ideas.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/astronomy_ideas.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="625">
-            <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <first_editor relative-caret-position="1575">
+            <caret line="63" selection-start-line="63" selection-end-line="63" />
           </first_editor>
           <second_editor />
         </state>
@@ -332,12 +374,15 @@
     <entry file="file://$PROJECT_DIR$/random_ideas/astronomy_ideas/GC_astrometry.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <first_editor relative-caret-position="850">
+            <caret line="34" column="31" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_ideas/climate_change/seaweed_farming/basic_costs.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
 </project>
