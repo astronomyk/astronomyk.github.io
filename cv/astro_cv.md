@@ -3,11 +3,13 @@
 * [Publications](#publications)
   * [Refereed papers](#refereed-papers)
   * [Conference proceedings](#conference-proceedings)
-  * [Posters](#posters)
+  * [Consortium related documents](#consortium-related-documents)
+  * [Thesis works](#thesis-works)
 * [Astronomical software](#astronomy-software-projects)
 * [Talks and Presentations](#talks-and-presentations)
   * [Conferences presentations](#conferences-presentations)
   * [MICADO consortium meetings](#micado-consortium-meetings)
+  * [Posters](#posters)
   * [University talks](#university-talks)
   * [Teaching](#teaching)
 * [Conferences attendence](#conference-attendance)
@@ -34,6 +36,27 @@ For a list of co-author publications, please see [this link to ADS](https://ui.a
   * [SimCADO - a python package for simulating detector output for MICADO at the E-ELT](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..527L/abstract)
 * 2018 Aug - IAU-GA, Vienna
   * [The Initial Mass Function in the ELT era](https://ui.adsabs.harvard.edu/abs/2020arXiv200614997L/abstract)
+
+
+### Consortium related documents
+
+* ELT-TRE-MCD-56306-0056: MICADO Filter Wing Transmission Levels
+  * Description: MICADO Phase B Technical note
+  * Authors: Leschinski
+  * Year: 2017
+* ELT-ICD-MCD-56306-0050: SimCADO: the Data Simulator for MICADO
+  * Description: MICADO PDR Documentation
+  * Authors: Leschinski and Czoske
+  * Year: 2018
+
+
+### Thesis works
+* Doctoral Thesis (2018): [Simulating MICADO: the future of near infrared astronomy](https://ubdata.univie.ac.at/AC15041927)
+  * Supervisor: Joao Alves
+  * Alma matter: University of Vienna
+* Master Thesis (2014): [A tale of two molecules: revisiting the CO-Av relationship in the L1495-B213 molecular cloud](https://ubdata.univie.ac.at/AC11685653)
+  * Supervisor: Alvaro Hacar
+  * Alma matter: University of Vienna
 
 
 ## Astronomy software projects
