@@ -1,5 +1,44 @@
 # Astronomy CV
 
+* [Publications](#publications)
+  * [Refereed papers](#refereed-papers)
+  * [Conference proceedings](#conference-proceedings)
+  * [Posters](#posters)
+* [Talks and Presentations](#talks-and-presentations)
+  * [Conferences presentations](#conferences-presentations)
+  * [MICADO consortium meetings](#micado-consortium-meetings)
+  * [University talks](#university-talks)
+  * [Teaching](#teaching)
+* [Conferences attendence](#conference-attendance)
+* [Outreach activities](#outreach-activities)
+
+
+## Publications
+### Refereed papers
+* Leschinski and Alves, 2020, A&A
+  * https://arxiv.org/pdf/2006.07619.pdf
+* Leschinski and Gendron, 2020, JOSS
+  * AnisoCADO: a python package for analytically generating adaptive optics point spread functions for the Extremely Large Telescope
+  * https://arxiv.org/ftp/arxiv/papers/2006/2006.14572.pdf
+* Leschinski et al., 2016, SPIE
+  * SimCADO - an instrument data simulator package for MICADO at the E-ELT
+  * https://arxiv.org/pdf/1609.01480.pdf
+
+
+### Conference proceedings
+* 2015 Oct - ADASS Sydney
+  * SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
+  * https://ui.adsabs.harvard.edu/abs/2017ASPC..512..647L/abstract
+* 2016 Oct - ADASS, Trieste
+  * SimCADO - a python package for simulating detector output for MICADO at the E-ELT
+  * https://ui.adsabs.harvard.edu/abs/2019ASPC..521..527L/abstract
+* 2018 Aug - IAU-GA, Vienna
+  * The Initial Mass Function in the ELT era
+  * https://ui.adsabs.harvard.edu/abs/2020arXiv200614997L/abstract
+
+
+
+
 ## Talks and Presentations
 ### Conferences presentations
 #### 2015
@@ -33,19 +72,22 @@
 #### 2018
 * April - Garching
   * MICADO Science team Meeting - 30 min presentation
-* April -  
+* April - Groningen
+  * Astrometry of resolved stellar population - 20 min presentation  
 * May - Vienna
   * PhD Defence - 45 min talk + 45 min questions
 * June - Garching
-  * Invited talk at ESO fellows symposium - 30 min on SimCADO
+  * ESO fellows symposium, invited talk - 30 min on SimCADO
 * August - Vienna
   * IAU GA - 2x 15 min talks (took Joao's slot)
   * https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr19
   * https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr36
 
 #### 2019
+* March - Remote
+  * MAORY Science team workshop - 15 min presentation
 * April - Garching
-  * ESO Software group meeting
+  * ESO Software group meeting - meetings + hack-day
 * June - Groningen
   * Kaypteyn Institute  - 30 mins Lunch talk
 * September - Crete
@@ -111,29 +153,6 @@
 * 2020 March->July
   Bachelor (Physics) Introduction to Experimental Methods (14x 2.5hr) 
 
-
-## Publications
-### Refereed papers
-* Leschinski and Alves, 2020, A&A
-  * https://arxiv.org/pdf/2006.07619.pdf
-* Leschinski and Gendron, 2020, JOSS
-  * AnisoCADO: a python package for analytically generating adaptive optics point spread functions for the Extremely Large Telescope
-  * https://arxiv.org/ftp/arxiv/papers/2006/2006.14572.pdf
-* Leschinski et al., 2016, SPIE
-  * SimCADO - an instrument data simulator package for MICADO at the E-ELT
-  * https://arxiv.org/pdf/1609.01480.pdf
-
-
-### Conference proceedings
-* 2015 Oct - ADASS Sydney
-  * SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
-  * http://articles.adsabs.harvard.edu/pdf/2017ASPC..512..647L
-* 2016 Oct - ADASS, Trieste
-  * SimCADO - a python package for simulating detector output for MICADO at the E-ELT
-  * https://ui.adsabs.harvard.edu/abs/2019ASPC..521..527L/abstract
-* 2018 Aug - IAU-GA, Vienna
-  * The Initial Mass Function in the ELT era
-  * (link here) 
 
 
 ### Posters
