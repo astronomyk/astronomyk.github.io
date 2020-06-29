@@ -4,6 +4,7 @@
   * [Refereed papers](#refereed-papers)
   * [Conference proceedings](#conference-proceedings)
   * [Posters](#posters)
+* [Astronomical software](#astronomy-software-projects)
 * [Talks and Presentations](#talks-and-presentations)
   * [Conferences presentations](#conferences-presentations)
   * [MICADO consortium meetings](#micado-consortium-meetings)
@@ -14,43 +15,73 @@
 
 
 ## Publications
+Only first author publication are listed here. 
+For a list of co-author publications, please see [this link to ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%5ELeschinski%2C%20K)
+
 ### Refereed papers
-* Leschinski and Alves, 2020, A&A
-  * https://arxiv.org/pdf/2006.07619.pdf
+* Leschinski and Alves, 2020, A&A 
+  * [The Future of IMF studies with the ELT and MICADO I: The local Universe as a resolved IMF laboratory](https://arxiv.org/pdf/2006.07619.pdf)
 * Leschinski and Gendron, 2020, JOSS
-  * AnisoCADO: a python package for analytically generating adaptive optics point spread functions for the Extremely Large Telescope
-  * https://arxiv.org/ftp/arxiv/papers/2006/2006.14572.pdf
+  * [AnisoCADO: a python package for analytically generating adaptive optics point spread functions for the Extremely Large Telescope](https://arxiv.org/ftp/arxiv/papers/2006/2006.14572.pdf)
 * Leschinski et al., 2016, SPIE
-  * SimCADO - an instrument data simulator package for MICADO at the E-ELT
-  * https://arxiv.org/pdf/1609.01480.pdf
+  * [SimCADO - an instrument data simulator package for MICADO at the E-ELT](https://arxiv.org/pdf/1609.01480.pdf)
 
 
 ### Conference proceedings
 * 2015 Oct - ADASS Sydney
-  * SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
-  * https://ui.adsabs.harvard.edu/abs/2017ASPC..512..647L/abstract
+  * [SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT](https://ui.adsabs.harvard.edu/abs/2017ASPC..512..647L/abstract)
 * 2016 Oct - ADASS, Trieste
-  * SimCADO - a python package for simulating detector output for MICADO at the E-ELT
-  * https://ui.adsabs.harvard.edu/abs/2019ASPC..521..527L/abstract
+  * [SimCADO - a python package for simulating detector output for MICADO at the E-ELT](https://ui.adsabs.harvard.edu/abs/2019ASPC..521..527L/abstract)
 * 2018 Aug - IAU-GA, Vienna
-  * The Initial Mass Function in the ELT era
-  * https://ui.adsabs.harvard.edu/abs/2020arXiv200614997L/abstract
+  * [The Initial Mass Function in the ELT era](https://ui.adsabs.harvard.edu/abs/2020arXiv200614997L/abstract)
 
 
+## Astronomy software projects
+Below is the list of software projects (python packages) for which I am the main (or sole) designer and developer:
+
+* SimCADO
+  * The instrument data simulator for MICADO at the ELT
+    * [Documentation](https://simcado.readthedocs.io/en/latest/)
+    * [Code base](https://github.com/astronomyk/simcado)
+* ScopeSim
+  * A modular customisable multi-purpose astronomical instrument data simulator 
+    * [Documentation](https://scopesim.readthedocs.io/en/latest/)
+    * [Code base](http://github.com/astronomyk/scopesim)
+* ScopeSim_templates
+  * A helper package from ScopeSim, containing function for generating on-sky source object in the correct format
+    * [Documentation](https://scopesim_templates.readthedocs.io/en/latest/)
+    * [Code base](https://github.com/astronomyk/scopesim_templates)
+* IRDB (Instrument reference database)
+  * The reference database containing all relevant information and files for ScopeSim to accurately model the full optical train for an observatory + telescope + instrument + detector system  
+    * [Code base](https://github.com/astronomyk/irdb)
+* AnisoCADO
+  * Generates on/off-axis SCAO PSFs for MICADO at the ELT
+  * Based on a set of functions written by Eric Gendron 
+    * [Documentation](https://anisocado.readthedocs.io/en/latest/)
+    * [Code base](https://github.com/astronomyk/anisocado)
+* Pyckles
+  * Quick pythonic access to the ``Pickles (1998)`` stellar spectra. The package is also general enough to include other libraries
+    * [Documentation](https://pyckles.readthedocs.io/en/latest/)
+    * [Code base](https://github.com/astronomyk/pyckles)
+* SkyCalc_ipy
+  * A wrapper for the ``SkyCalc_cli`` tool to allow use within an ipython framework
+  * [Documentation](https://skycalc_ipy.readthedocs.io/en/latest/)
+  * [Code base](https://github.com/astronomyk/skycalc_ipy)
 
 
 ## Talks and Presentations
 ### Conferences presentations
 #### 2015
-* Oct - STEEL school, Erice
-  * Lightning talk: SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
-* Oct - ADASS, Sydney
+* Oct - Erice
+  * [International PhD School "F. Lucchin": Science and Technology with E-ELT](https://www.eso.org/sci/meetings/2015/EELT_EriceSchool2015.html)
+    * [Lightning talk: "Observing" star formation over a Hubble time with MICADO, the E-ELTs first light NIR imager](https://www.eso.org/sci/meetings/2015/EELT_EriceSchool2015/studentstalks.html)
+* Oct - ADASS XXV, Sydney
   * Lightning talk: SimCADO
 
 #### 2016
 * April - Garching
-  * ESO Instrument Simulator workshop
-    * http://www.eso.org/sci/meetings/2016/simu2016.html
+  * [ESO Instrument Simulator workshop](http://www.eso.org/sci/meetings/2016/simu2016.html)
+    * [Presentation](https://www.eso.org/sci/meetings/2016/simu2016/102_MICADO.pdf)
 
 #### 2017
 * February - Vienna
@@ -59,16 +90,12 @@
 * May - Linz
   * A* PSF Meeting - Mathematicians meet Astronomers
 * June - Prague
-  * EWASS ELT session - Presentation on Simcado and IMF variations - 15 min talk
-    * http://eas.unige.ch/EWASS2017/session.jsp?id=SS18
+  * [EWASS ELT session - Presentation on Simcado and IMF variations - 15 min talk](http://eas.unige.ch/EWASS2017/session.jsp?id=SS18)
 * August - Lanzhou, China
   * Shedding Light on the Dark Universe with Extremely Large Telescopes - 25 min talk
-    * http://darkuniverse2017.csp.escience.cn/dct/page/65580
-    * https://conferences.pa.ucla.edu/dark-universe/index.html
 * September - Beijing
   * Stellar Populations and the Distance Scale - 20 min talk
-    * http://kiaa.pku.edu.cn/conference/stellar-populations-and-distance-scale-conference-honour-jeremy-mould
-
+    
 #### 2018
 * April - Garching
   * MICADO Science team Meeting - 30 min presentation
@@ -79,9 +106,9 @@
 * June - Garching
   * ESO fellows symposium, invited talk - 30 min on SimCADO
 * August - Vienna
-  * IAU GA - 2x 15 min talks (took Joao's slot)
-  * https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr19
-  * https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr36
+  * [IAU General Assembly XXX](https://astronomy2018.univie.ac.at/abstractsiaus347) - 2x 15 min talks
+    * Talk 1 - [Simulating imagery of the near and distant universe with MICADO at the ELT](https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr19)
+    * Talk 2 - [The Initial Mass Function in the ELT era](https://astronomy2018.univie.ac.at/abstractsiaus347/#iaus347abstr36)
 
 #### 2019
 * March - Remote
@@ -89,10 +116,9 @@
 * April - Garching
   * ESO Software group meeting - meetings + hack-day
 * June - Groningen
-  * Kaypteyn Institute  - 30 mins Lunch talk
+  * Kaypteyn Institute - 30 mins Lunch talk
 * September - Crete
-  * Star Formation Workshop - 5 mins Lightning talk
-  * https://crete3.org/
+  * [Star Formation Workshop - 5 mins Lightning talk](https://crete3.org/)
 
 
 ### MICADO consortium meetings
