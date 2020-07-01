@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b57ddc9-0efb-47da-8212-652cde03bdb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cv/classic_cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CV_July_2019.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cv/astro_cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv/astro_cv.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +60,7 @@
         <counts>
           <entry key="Python Console" value="126" />
           <entry key="gitignore" value="10" />
-          <entry key="md" value="12320" />
+          <entry key="md" value="12575" />
           <entry key="py" value="1552" />
           <entry key="rst" value="2477" />
           <entry key="txt" value="118" />
@@ -67,7 +68,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="12320" />
+          <entry key="Markdown" value="12575" />
           <entry key="PLAIN_TEXT" value="128" />
           <entry key="Python" value="1674" />
           <entry key="ReST" value="2477" />
@@ -76,10 +77,10 @@
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="5" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -90,8 +91,8 @@
         <entry file="file://$PROJECT_DIR$/cv/astro_cv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2150">
-                <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <first_editor relative-caret-position="350">
+                <caret line="89" column="13" lean-forward="true" selection-end-line="319" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,10 +145,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="507" />
-    <option name="height" value="232" />
+    <option name="x" value="-1025" />
+    <option name="y" value="141" />
+    <option name="width" value="325" />
+    <option name="height" value="149" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -254,9 +255,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13277134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13277134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,7 +267,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35249457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.21691974" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299532" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -361,9 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-start-column="4" selection-end-column="4" />
-          <folding>
-            <marker date="1589449527055" expanded="true" signature="325:329" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,20 +397,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv/classic_cv.md">
+    <entry file="file://$PROJECT_DIR$/cv/astro_cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="350">
+            <caret line="89" column="13" lean-forward="true" selection-end-line="319" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv/astro_cv.md">
+    <entry file="file://$PROJECT_DIR$/cv/classic_cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2150">
-            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>

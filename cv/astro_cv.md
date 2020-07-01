@@ -1,4 +1,5 @@
-# Astronomy CV
+# Astronomy CV for Kieran Leschinski
+The online version can be found here: https://astronomyk.github.io/cv/astro_cv.html
 
 * [Publications](#publications)
   * [Refereed papers](#refereed-papers)
@@ -18,7 +19,7 @@
 
 ## Publications
 Only first author publication are listed here. 
-For a list of co-author publications, please see [this link to ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%5ELeschinski%2C%20K)
+For a list of co-author publications, please see [this link to ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%5ELeschinski%2C%20K), or use the ADS search term: ``author:"^Leschinski, K."``
 
 ### Refereed papers
 * Leschinski and Alves, 2020, A&A 
@@ -88,8 +89,8 @@ Below is the list of software projects (python packages) for which I am the main
     * [Code base](https://github.com/astronomyk/pyckles)
 * SkyCalc_ipy
   * A wrapper for the ``SkyCalc_cli`` tool to allow use within an ipython framework
-  * [Documentation](https://skycalc_ipy.readthedocs.io/en/latest/)
-  * [Code base](https://github.com/astronomyk/skycalc_ipy)
+    * [Documentation](https://skycalc_ipy.readthedocs.io/en/latest/)
+    * [Code base](https://github.com/astronomyk/skycalc_ipy)
 
 
 ## Talks and Presentations
@@ -200,7 +201,7 @@ Below is the list of software projects (python packages) for which I am the main
 * 2019 March->July
   * Bachelor (Physics) Introduction to Experimental Methods (14x 2.5hr)
 * 2020 March->July
-  Bachelor (Physics) Introduction to Experimental Methods (14x 2.5hr) 
+  * Bachelor (Physics) Introduction to Experimental Methods (14x 2.5hr) 
 
 
 
@@ -225,54 +226,60 @@ Below is the list of software projects (python packages) for which I am the main
 #### 2015
 * Apr - Oxford
   * Wetton Workshop - Realising the Astronomy of the Future II - Simulating the Universe
-  * http://astro-conf.physics.ox.ac.uk/wetton15/programme.html
+    * http://astro-conf.physics.ox.ac.uk/wetton15/programme.html
 * June - Garching
   * EIRO Forum summer school
-  * https://indico.cern.ch/event/368852/
   * Best poster award!
+    * https://indico.cern.ch/event/368852/
 * Oct - Erice
   * STEEL summer school
-  * http://www.eso.org/sci/meetings/2015/EELT_EriceSchool2015.html
+    * http://www.eso.org/sci/meetings/2015/EELT_EriceSchool2015.html
 * Oct - Sydney
   * ADASS 25
-  * http://www.caastro.org/event/2015-adass
+    * http://www.caastro.org/event/2015-adass
 * Nov - Sydney
   * dot Astronomy 7
-  * http://dotastronomy.com/events/seven/
+    * http://dotastronomy.com/events/seven/
 
 #### 2016
 * April - Garching
   * ESO Instrument Simulator workshop 
-  * http://www.eso.org/sci/meetings/2016/simu2016.html
+    * http://www.eso.org/sci/meetings/2016/simu2016.html
 * May - Linz
   * A* All-day PSF reconstruction meeting
 * June - Edinburgh
   * SPIE - Astronomical Telescopes and Insturmentation
-  * http://spie.org/about-spie/press-room/spie-astronomical-telescopes--instrumentation-2016-news-and-photos
+    * http://spie.org/about-spie/press-room/spie-astronomical-telescopes--instrumentation-2016-news-and-photos
 * October - Trieste
   * ADASS 26
-  * http://www.adass2016.inaf.it/
+    * http://www.adass2016.inaf.it/
 
   
 #### 2017
 
 * June - Prag
   * EWASS - European Week of Astronomy and Space Science - SS18
-  * http://eas.unige.ch/EWASS2017/session.jsp?id=SS18
+    * http://eas.unige.ch/EWASS2017/session.jsp?id=SS18
 * July - Linz
   * MICADO PSF-R and Spectroscopy Meeting
 * August - Lanzhou, China
   * Shedding Light on the Dark Universe with Extremely Large Telescopes - 25 min talk
-  * http://darkuniverse2017.csp.escience.cn/dct/page/65580
-  * https://conferences.pa.ucla.edu/dark-universe/index.html
+    * http://darkuniverse2017.csp.escience.cn/dct/page/65580
+    * https://conferences.pa.ucla.edu/dark-universe/index.html
 * September - Beijing
   * Stellar Populations and the Distance Scale - 20 min talk
-  * http://kiaa.pku.edu.cn/conference/stellar-populations-and-distance-scale-conference-honour-jeremy-mould
+    * http://kiaa.pku.edu.cn/conference/stellar-populations-and-distance-scale-conference-honour-jeremy-mould
   
 #### 2018  
 * August - Vienna
   * IAU General Assembly
-  * https://astronomy2018.univie.ac.at/
+    * https://astronomy2018.univie.ac.at/
+
+
+#### 2019
+* September - Crete
+  * Crete III: Through dark lanes to new stars
+    * https://crete3.org/
 
 
 ## Outreach activities
