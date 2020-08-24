@@ -20,7 +20,7 @@ Here is a list of astronomy-related projects that I would like to do.
   * [Github repository](https://github.com/astronomyk/illustris_elt)
   
 
-* Astrometry to disentagle galactic centre open cluster
+* [Astrometry to disentangle galactic centre open cluster](GC_astrometry.md)
   * Level: Master thesis, 6-12 months work
 
 * The IMF in the era of the ELTs
@@ -28,4 +28,20 @@ Here is a list of astronomy-related projects that I would like to do.
 
 * Target lists of young stellar clusters that will be resolvable with the ELT
   * Level: Bachelor thesis, 2-4 months work
-
+  
+  The task would be to make a catalogue of young stellar clusters and find
+  cluster properties like:
+  * Coordinates
+  * Image
+  * Possible catalogue of stars
+  * Age, mass, distance
+  * Milky Way cluster, or external galaxy
+  * Proper motions, internally and global
+  * How many stars are in the cluster
+  * Brightest star, absolute and apparent magnitude
+  * How many bright stars above the MICADO saturation limit
+  * Lowest mass star that can be observed
+  * Light profile - half-light radius, tidal radius, core radius
+  * Extent of cluster - how wide is it, how many MICADO fields will be need to cover it
+  * Best zenith distance for observations
+  * Estimates for IMF for the cluster
