@@ -4,7 +4,7 @@ My name is Kieran and I'm a developer of astronomical software.
 
 ## Curriculum Vitae
 
-* Here is my [regular CV](cv/CV_July_2020.pdf), with more general information
+* Here is my [regular CV](cv/CV_June_2020.pdf), with more general information
 * Here is my [astronomy CV](cv/astro_cv.md), which includes conference talks, publications, and outreach activities
 
 
